@@ -6,6 +6,8 @@ authors = ["HamzhSuilik <9hamzh@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Contacts = "^1.0"
+Faker = "^8.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
